@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-25T13:09:38.386Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.82" etag="-NHOSecjCdGwRyuIc5wZ" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-25T13:09:53.437Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.82" etag="-9cGtg-1SoxwdDp8uDVu" version="21.6.5" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="881" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -85,7 +85,7 @@
         <mxCell id="ZyE_ZItKhcC6v-lNAR3k-36" value="user" style="rhombus;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="160" y="560" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ZyE_ZItKhcC6v-lNAR3k-43" value="Entity" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="ZyE_ZItKhcC6v-lNAR3k-43" value="SESSIONS" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="290" y="1160" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZyE_ZItKhcC6v-lNAR3k-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=ERmandOne;endFill=0;" edge="1" parent="1" source="ZyE_ZItKhcC6v-lNAR3k-44" target="ZyE_ZItKhcC6v-lNAR3k-2">
@@ -123,7 +123,7 @@
         <mxCell id="ZyE_ZItKhcC6v-lNAR3k-54" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="1000" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ZyE_ZItKhcC6v-lNAR3k-55" value="Entity" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="ZyE_ZItKhcC6v-lNAR3k-55" value="SEMESTERS" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="610" y="1160" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZyE_ZItKhcC6v-lNAR3k-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=ERoneToMany;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="ZyE_ZItKhcC6v-lNAR3k-55">
