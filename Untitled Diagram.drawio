@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-25T13:04:57.836Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.82" etag="h_gocFGTEPoV1kzBjI92" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-25T13:05:08.502Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.82" etag="qp0OKBcF6fHR9M7hvrg6" version="21.6.5" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="881" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -199,11 +199,6 @@
               <mxPoint x="800" y="340" />
               <mxPoint x="800" y="900" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ZyE_ZItKhcC6v-lNAR3k-81" value="1" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="ZyE_ZItKhcC6v-lNAR3k-80">
-          <mxGeometry x="1" relative="1" as="geometry">
-            <mxPoint y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
